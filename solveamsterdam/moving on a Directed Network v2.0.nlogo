@@ -1605,7 +1605,8 @@ Normally in a simulation of a maze (such as in the Mathematica simulation used i
 
 ## HOW TO CITE
 
-Norman L. Johnson, private communication (2022).  norman@santafe.edu
+Norman L. Johnson, private communication (2022).  norman@santafe.edu  Source code and files available at: 
+https://github.com/normanleejohnson/GitHub_repositories/tree/6b32fcf1021385559979d012bdf123f35ba90273/solveamsterdam
 
 Johnson, N. L. "Collective Problem Solving: Functionality beyond the individual," Los Alamos National Laboratory Report, Los Alamos, NM LA-UR-98-2227, Nov 1998. Available at: http://collectivescience.com
 
